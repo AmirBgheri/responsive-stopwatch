@@ -93,11 +93,3 @@ body{
         }
     }
 }
-@keyframes anime {
-    0%{
-        transform: rotate(10deg);
-    }
-    50%{
-        transform: rotate(-10deg);
-    }
-}
